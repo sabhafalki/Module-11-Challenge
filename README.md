@@ -13,9 +13,9 @@ The analysis consisted of the following:
 
 # Results #
 ## Search Criteria Procedure ##
-The UFO sightings webpage consist of filter for different multiple criteria, such as ity, state, country, and shape.<br>
+The UFO sightings webpage consist of filter for different multiple criteria, such as city, state, country, and shape.<br>
 The following figure depicts the initial webpage: <br>
-![June](/surfs_up/Image/June_temp.png) <br>
+![initial](/static/images/11-ufo0.png) <br>
 <br><br>
 The Search can be conducted on different asspect, one such example is showed in the figure below. Here the search is based on the different fields. 
 The following figure depicts how to perform a search :<br>
