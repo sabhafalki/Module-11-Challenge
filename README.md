@@ -21,7 +21,7 @@ The Search can be conducted on different asspects. An example of a filtered sear
 ![full](/static/images/11-ufo1.png) <br><br>
 
 The user can also filter on just one criteria, as shown below <br>
-![full](/static/images/11-ufo1.png) <br><br>
+![Single](/static/images/single_field.png) <br><br>
 
 ## Summary ##
 ### Drawbacks of Current Design ###
