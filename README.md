@@ -17,11 +17,11 @@ The UFO sightings webpage consist of filter for different multiple criteria, suc
 The following figure depicts the initial webpage: <br>
 ![initial](/static/images/11-ufo0.png) <br>
 <br><br>
-The Search can be conducted on different asspect, one such example is showed in the figure below. Here the search is based on the different fields. 
+The Search can be conducted on different asspect, one such example is showed in the figure below. Here the search is based on the different fields.<br> 
 The following figure depicts how to perform a search :<br>
-![June](/surfs_up/Image/June_temp.png) <br>
+![full](/static/images/11-ufo1.png) <br>
 <br><br>
-### Filter Search by 
+Likewise, we can search for a particular field.
 ## Summary ##
 - One drawback of this design is the filter search section of the webpage.It is difficult to determine the data by just scrolling down the table. 
 Ex: city name la Mesa is in CA,US. The user might not be known to the data present in the table before while searching. 
